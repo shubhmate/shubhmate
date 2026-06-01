@@ -3,6 +3,8 @@
 # Hi there! I'm Shubham 👋
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9fd5fa&center=true&vCenter=true&width=435&lines=DevOps+♾️+and+Cloud+Engineer+☁️;AWS+%7C+GCP+%7C+Kubernetes+Expert;Infrastructure+Automation+Specialist)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhammate.com)
   
 </div>
 
@@ -102,7 +104,21 @@ DevOps and Cloud Engineer with **2+ years** of hands-on experience in automating
 
 ---
 
-### 🛡️ DevSecOps & Best Practices
+## 🎓 Education & Certifications
+
+### **Education**
+- **PG-DAC, Software Development** — Centre for Development of Advanced Computing (C-DAC), Mumbai, India
+- **B.E., Electronic and Telecommunications Engineering** — Savitribai Phule Pune University, Pune, India
+
+### **Certifications & Training**
+- 🏆 **AI-Powered DevOps** — KodeKloud (ID: 79473108-c5c7-4345-8235-58a7d496d00f)
+- 🏆 **DevOps Course** — Tutedude (ID: TD-SHUB-DO-2308)
+- 🏆 **DevOps Training** — TWS (ID: NGS4PMHG)
+
+---
+
+## 🛡️ DevSecOps & Best Practices
+
 - **Security-First Approach**: Implementing SAST/DAST tools (Trivy, SonarQube, Aqua Security) and secrets management (HashiCorp Vault, Snyk)
 - **Least-Privilege Access Control**: Enforcing strict IAM policies and secure network isolation (VPC, security groups)
 - **Automation Excellence**: Infrastructure as Code with Terraform, configuration management with Ansible, policy-as-code
@@ -172,19 +188,6 @@ DevOps and Cloud Engineer with **2+ years** of hands-on experience in automating
 
 ---
 
-## 🎓 Education & Certifications
-
-### **Education**
-- **PG-DAC, Software Development** — Centre for Development of Advanced Computing (C-DAC), Mumbai, India
-- **B.E., Electronic and Telecommunications Engineering** — Savitribai Phule Pune University, Pune, India
-
-### **Certifications & Training**
-- 🏆 **AI-Powered DevOps** — KodeKloud (ID: 79473108-c5c7-4345-8235-58a7d496d00f)
-- 🏆 **DevOps Course** — Tutedude (ID: TD-SHUB-DO-2308)
-- 🏆 **DevOps Training** — TWS (ID: NGS4PMHG)
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhmate&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
@@ -217,6 +220,6 @@ DevOps and Cloud Engineer with **2+ years** of hands-on experience in automating
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhmate&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/shubhmate?label=Follow&style=social)](https://github.com/shubhmate)
 
-**Open to DevOps Engineer, Cloud Engineer, and Infrastructure Automation roles** 🚀
+**Open to DevOps Engineer, Cloud Engineer, and DevSecOps roles** 🚀
 
 </div>
