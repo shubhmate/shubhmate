@@ -27,22 +27,22 @@ DevOps and Cloud Engineer with **2+ years** of hands-on experience in automating
 ---
 
 <!-- 
-## 🎯 SUGGESTION #1: Quick Facts Section
-Uncomment this section to display quick metrics at a glance. Great for recruiters!
+## 🎯 Quick Facts Section
+Uncomment this section to display quick metrics at a glance.
 
 ## 🎯 Quick Facts
 
 | Metric | Achievement |
 | :--- | :--- |
 | **Experience** | 2+ Years in DevOps & Cloud Engineering |
-| **Current Specialization** | AWS, Kubernetes, Infrastructure Automation |
+| **Current Specialization** | AWS, GCP, Kubernetes, Docker, CI/CD, Infrastructure Automation, Monitoring |
 | **Key Focus** | Security-First, Zero-Downtime Deployments |
 | **Latest Tech** | GitOps, Serverless, Container Orchestration |
 
 ---
 -->
 
-### 🛠️ Core Competencies & Tools
+## 🛠️ Core Competencies & Tools
 
 | Category | Expertise |
 | :--- | :--- |
@@ -78,8 +78,8 @@ Uncomment this section to display quick metrics at a glance. Great for recruiter
 ---
 
 <!--
-## 🎯 SUGGESTION #2: Technical Blog/Articles Section
-Add this section to showcase thought leadership and community engagement.
+## 🎯 Technical Blog/Articles Section
+section to showcase thought leadership and community engagement.
 
 ## 📝 Latest Articles & Insights
 - 📖 [Medium Profile](https://medium.com/@shubhmate) - Cloud-native architecture and DevOps practices
@@ -90,8 +90,8 @@ Add this section to showcase thought leadership and community engagement.
 -->
 
 <!--
-## 🎯 SUGGESTION #3: Open Source Contributions Section
-Highlight your contributions to the open-source community.
+## 🎯 Open Source Contributions Section
+Highlight contributions to the open-source community.
 
 ## 🔗 Open Source Contributions
 - ⭐ [Kubernetes](https://github.com/kubernetes/kubernetes) - Contributed bug fixes for cluster networking
@@ -145,7 +145,7 @@ Highlight your contributions to the open-source community.
 ---
 
 <!--
-## 🎯 SUGGESTION #4: Key Achievements Timeline
+## 🎯 Key Achievements Timeline
 Alternative format for showcasing achievements in a timeline view.
 
 ## 📈 Key Achievements Timeline
@@ -173,26 +173,11 @@ Alternative format for showcasing achievements in a timeline view.
 
 ### **Certifications & Training**
 
-<!--
-## 🎯 SUGGESTION #5: Certification Links with Verification
-Add clickable verification links to increase credibility.
-
-- 🏆 **AI-Powered DevOps** — KodeKloud | [Verify Credential](https://kodeloud.com/verify/79473108-c5c7-4345-8235-58a7d496d00f)
-- 🏆 **DevOps Course** — Tutedude | [Verify Credential](https://tutedude.com/verify/TD-SHUB-DO-2308)
-- 🏆 **DevOps Training** — TWS | [Verify Credential](https://tws.in/verify/NGS4PMHG)
+- 🏆 **AI-Powered DevOps** — KodeKloud (ID: 79473108-c5c7-4345-8235-58a7d496d00f) | [Verify Credential](https://shubhammate.com/assets/docs/certs/kodekloud_ai_powered_devops.webp)
+- 🏆 **DevOps Course** — Tutedude (ID: TD-SHUB-DO-2308) | [Verify Credential](https://shubhammate.com/assets/docs/certs/tutedude_devops_course.webp)
+- 🏆 **DevOps Training** — TWS (ID: NGS4PMHG) | [Verify Credential](https://shubhammate.com/assets/docs/certs/tws_devops_course.webp)
 
 ---
--->
-
-- 🏆 **AI-Powered DevOps** — KodeKloud (ID: 79473108-c5c7-4345-8235-58a7d496d00f)
-- 🏆 **DevOps Course** — Tutedude (ID: TD-SHUB-DO-2308)
-- 🏆 **DevOps Training** — TWS (ID: NGS4PMHG)
-
----
-
-<!--
-## 🎯 SUGGESTION #6: Currently Learning & Exploring Section
-Shows growth mindset and future career trajectory.
 
 ## 🚀 Currently Learning & Exploring
 
@@ -204,7 +189,6 @@ Shows growth mindset and future career trajectory.
 - ⚡ **Serverless Optimization** - AWS Lambda patterns and cost optimization
 
 ---
--->
 
 ## 🛡️ DevSecOps & Best Practices
 
@@ -250,8 +234,7 @@ Shows growth mindset and future career trajectory.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/>
-  <!-- SUGGESTION #13: Add ArgoCD Icon -->
-  <!-- <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/> -->
+  <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/> 
 </p>
 
 #### **Monitoring & Observability**
@@ -267,8 +250,7 @@ Shows growth mindset and future career trajectory.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <!-- SUGGESTION #12: Add DynamoDB Icon -->
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="40" height="40"/> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="40" height="40"/> 
 </p>
 
 #### **Web Development**
@@ -281,10 +263,6 @@ Shows growth mindset and future career trajectory.
 
 ---
 
-<!--
-## 🎯 SUGGESTION #7: Connect For CTA Section
-Clarifies what kind of collaboration and engagement you're open to.
-
 ## 💼 Let's Connect!
 
 - 🤝 **Collaborations**: Infrastructure projects, DevOps tooling, open-source contributions
@@ -294,11 +272,6 @@ Clarifies what kind of collaboration and engagement you're open to.
 - 📚 **Knowledge Sharing**: Articles, tutorials, and learning resources for the community
 
 ---
--->
-
-<!--
-## 🎯 SUGGESTION #8: Repository Highlights Section
-Direct traffic to your most important projects.
 
 ## ⭐ Repository Highlights
 
@@ -313,11 +286,6 @@ Direct traffic to your most important projects.
 - [Terraform-for-Deploying-Simple-Frontend-Backend-App-Using-Docker-AWS-VPC-ECR-and-ECS-Fargate](https://github.com/shubhmate/Terraform-for-Deploying-Simple-Frontend-Backend-App-Using-Docker-AWS-VPC-ECR-and-ECS-Fargate) - Advanced Terraform IaC with AWS services
 
 ---
--->
-
-<!--
-## 🎯 SUGGESTION #9: Skill Proficiency Levels
-Shows honest self-assessment and expertise depth.
 
 ## 🎯 Skill Proficiency Levels
 
@@ -328,12 +296,8 @@ Shows honest self-assessment and expertise depth.
 | 🔵 **Familiar** | Good working knowledge | Datadog, Snyk, HashiCorp Vault, GitLab CI, ArgoCD, Helm |
 
 ---
--->
 
 <!--
-## 🎯 SUGGESTION #10: Recognition & Awards
-Showcase any professional recognition or awards.
-
 ## 🏅 Recognition & Awards
 
 - 🌟 **Employee Excellence** - Recognized for infrastructure automation innovations at Quantiphi (2022)
@@ -348,18 +312,11 @@ Showcase any professional recognition or awards.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhmate&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
----
-
-<!--
-## 🎯 SUGGESTION #14: Add GitHub Stats (Alternative)
-Uncomment to show additional GitHub statistics.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhmate&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </div>
 
 ---
--->
 
 ### 📈 Activity Graph
 <div align="center">
@@ -368,27 +325,18 @@ Uncomment to show additional GitHub statistics.
 
 ---
 
-<!--
-## 🎯 SUGGESTION #11: Add "Looking For" Section
-Strategic section that clarifies career goals and interests.
-
 ## 🎯 What I'm Looking For
 
-✅ **Ideal Role**: Senior DevOps Engineer | Cloud Architect | Infrastructure Lead | Site Reliability Engineer  
+✅ **Ideal Role**: DevOps Engineer | Cloud Engineer | DevSecOps Engineer  
 ✅ **Company Type**: Tech startups, cloud-native companies, fintech, or tech-forward enterprises  
 ✅ **Key Interests**: 
-- Lead infrastructure and automation initiatives
+- Infrastructure and automation initiatives
 - Focus on security, scalability, and reliability
 - Collaborative and learning-friendly team environment
 - Opportunities to mentor junior engineers
 - Work with cutting-edge cloud and DevOps technologies
 
 ---
--->
-
-<!--
-## 🎯 SUGGESTION #15: Fun Facts Section
-Personal touch to make your profile more engaging.
 
 ## 🎲 Fun Facts About Me
 
@@ -400,7 +348,6 @@ Personal touch to make your profile more engaging.
 - 🌱 Advocate for infrastructure-as-code, security-first, and GitOps practices
 
 ---
--->
 
 ### 📫 Connect with Me
 <div align="center">
