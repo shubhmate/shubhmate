@@ -312,9 +312,9 @@ Alternative format for showcasing achievements in a timeline view.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhmate&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhmate&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</div>
+</div> -->
 
 ---
 
@@ -367,6 +367,6 @@ Alternative format for showcasing achievements in a timeline view.
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhmate&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/shubhmate?label=Follow&style=social)](https://github.com/shubhmate)
 
-**Open to DevOps Engineer, Cloud Engineer, and DevSecOps roles** 🚀
+**Open to DevOps Engineer, Cloud Engineer, and DevSecOps roles**
 
 </div>
